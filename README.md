@@ -13,7 +13,9 @@ MAKES_MORE_70k - this STORED PROCEDURE looks at an employee id and tells you if 
 
 NEW_HIRE - this STORED PROCEDURE checks to see if the employee was recently hired within 2002
 
+RETIREMENT_ELIGIBLE - this STORED PROCEDURE checks to see if a current employee is 65 or older and then returns that the person is eligible for retirement benefits
 
+YEARLY_RAISE - this STORED PROCEDURE checks to see the number of years of service an employee has in and using CASE returns a possible yearly raise amount based on where the fall in total years of service.
 
 
 ## Technologies

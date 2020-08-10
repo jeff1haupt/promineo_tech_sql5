@@ -11,6 +11,8 @@ CURRENT_SALARY - this is a stored procedure where a user can CALL the procedure 
 
 MAKES_MORE_70k - this STORED PROCEDURE looks at an employee id and tells you if the employee is currently earning more than $70,000 a year or not. 
 
+NEW_HIRE - this STORED PROCEDURE checks to see if the employee was recently hired within 2002
+
 
 
 

@@ -1,4 +1,4 @@
-# Promineo Tech - Back-end Program - mySQL Week 5
+# Promineo Tech - Back-end Program - mySQL Week 4
 
 ## Table of Contents
 * [General info](#general-info)
